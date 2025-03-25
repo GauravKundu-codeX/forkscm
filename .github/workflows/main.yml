@@ -1,4 +1,5 @@
 name: Release Fork
+name: Release Fork
 
 on: [push, pull_request, workflow_dispatch]
 
